@@ -5,3 +5,4 @@ let Dni = '46257867';
 //#endregion
 
 //#region
+console.log(Nombre);
