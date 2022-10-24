@@ -22,4 +22,5 @@ let n2 = 5;
 //#region 
 function suma(n3, n4) {
     let resultado = n3 - n4;
+    return resultado
 }
