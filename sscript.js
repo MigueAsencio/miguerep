@@ -45,3 +45,5 @@ function division(n7, n8) {
     let resultado = n7 / n8;
     return resultado;
 }
+
+let n7 = 20;
