@@ -11,3 +11,6 @@ console.log(Dni);
 //#endregion
 
 //#region
+function resta(n1, n2) {
+
+}
