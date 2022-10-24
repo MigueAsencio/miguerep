@@ -13,7 +13,7 @@ console.log(Dni);
 //#region
 function resta(n1, n2) {
     let resultado = n1 - n2;
-    return resultado
+    return resultado;
 }
 
 let n1 = 10;
@@ -23,4 +23,5 @@ let n2 = 5;
 //#region
 function suma(n3, n4) {
     let resultado = n3 + n4;
+    return resultado;
 }
