@@ -31,3 +31,6 @@ let n4 = 2;
 //#endregion
 
 //#region
+function multiplicación(n5, n6) {
+
+}
