@@ -42,5 +42,5 @@ let n6 = 7;
 
 //#region
 function division(n7, n8) {
-
+    let resultado = n7 / n8;
 }
