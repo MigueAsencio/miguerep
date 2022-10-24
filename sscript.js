@@ -21,3 +21,6 @@ let n2 = 5;
 //#endregion
 
 //#region
+function suma(n3, n4) {
+
+}
