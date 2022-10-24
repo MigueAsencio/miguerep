@@ -47,3 +47,4 @@ function division(n7, n8) {
 }
 
 let n7 = 20;
+let n8 = 4;
