@@ -7,3 +7,4 @@ let Dni = '46257867';
 //#region
 console.log(Nombre);
 console.log(Apellido);
+console.log(Dni);
