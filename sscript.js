@@ -33,4 +33,5 @@ let n4 = 2;
 //#region
 function multiplicación(n5, n6) {
     let resultado = n5 * n6;
+    return resultado;
 }
