@@ -27,3 +27,4 @@ function suma(n3, n4) {
 }
 
 let n3 = 3;
+let n4 = 2;
