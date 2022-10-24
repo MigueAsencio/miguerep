@@ -41,3 +41,6 @@ let n6 = 7;
 //#endregion
 
 //#region
+function division(n7, n8) {
+
+}
